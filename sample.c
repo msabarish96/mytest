@@ -3,7 +3,7 @@ int main()
 {
 	printf("heljjdsgjgdsjdsghjdsjjlo world hi how r u????");
 	printf("hdhsjhjsjhdsjhjsd csdjhcsdhjhcjhsdscjh");
-	printf("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
+	printif("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
 	printf("hi>???");
 	printf("jdkjkhdhskkhdksdhkshksahk");
         printf("jdkjkhdhskkhdksdhkshksahk");
