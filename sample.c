@@ -7,6 +7,9 @@ int main()
 	printf("hi>???");
 	printf("heljjdsgjgdsjdsghjdsjjlo world hi how r u????");
         printf("hdhsjhjsjhdsjhjsd csdjhcsdhjhcjhsdscjh");
+	printf("heljjdsgjgdsjdsghjdsjjlo world hi how r u????");
+        printf("hdhsjhjsjhdsjhjsd csdjhcsdhjhcjhsdscjh");
+        printf("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
         printf("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
 	printf("heljjdsgjgdsjdsghjdsjjlo world hi how r u????");
         printf("hdhsjhjsjhdsjhjsd csdjhcsdhjhcjhsdscjh");
