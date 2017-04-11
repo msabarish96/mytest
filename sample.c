@@ -3,8 +3,11 @@ int main()
 {
 	printf("heljjdsgjgdsjdsghjdsjjlo world hi how r u????");
 	printf("hdhsjhjsjhdsjhjsd csdjhcsdhjhcjhsdscjh");
-	printf("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
+	printif("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
 	printf("hi>???");
+	printf("heljjdsgjgdsjdsghjdsjjlo world hi how r u????");
+        printf("hdhsjhjsjhdsjhjsd csdjhcsdhjhcjhsdscjh");
+        printf("dhgsjsdjhdshjcjshjdjshjhdsjhcjhd");
 	printf("how its going on?");
 	return 0;
 }
